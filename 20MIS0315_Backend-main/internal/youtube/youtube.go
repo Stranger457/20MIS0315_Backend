@@ -10,7 +10,7 @@ import (
 	"20MIS0315_Backend/internal/database"
 )
 
-const apiKey = "AIzaSyDFsovXnSzsML2WbXdItm3NzCYzo8dBP8"
+const apiKey = "AIzaSyDFsovXnSzsML2WbXdItm3NzCYzo8dBP8s"
 
 // Video represents a video entry
 type Video struct {
