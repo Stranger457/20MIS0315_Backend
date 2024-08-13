@@ -24,7 +24,7 @@ services:
       DB_USER: vallipichowdappa
       DB_PASSWORD: Yooo
       DB_NAME: postgres
-      YOUTUBE_API_KEY: AIzaSyDEaZM1K8AqBvL2xTKGalxI4k6YJDnXJ1M
+      YOUTUBE_API_KEY: AIzaSyDFsovXnSzsML2WbXdItm3NzCYzo8dBP8s
       FETCH_INTERVAL: 10
 
 volumes:
